@@ -4,4 +4,4 @@ print(a)
 
 print(56)
 print(243)
-print("byucru")
+print("byuc3ru")
