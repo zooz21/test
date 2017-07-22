@@ -4,4 +4,4 @@ print(a)
 
 print(56)
 print(243)
-print("noga")
+print("byucru")
